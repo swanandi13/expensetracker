@@ -17,13 +17,6 @@
 
 
 
-## Demo
-
-[Link to Live Demo](https://expense-tracker-manik.netlify.app/)
-
-You can see the project in action by visiting the [live demo](https://expense-tracker-manik.netlify.app/).
-
----
 
 ## Features
 
