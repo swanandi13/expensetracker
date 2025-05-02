@@ -3,16 +3,6 @@
 📝 Manage your finances efficiently with this Expense Tracker App! Track your expenses, set budgets, and visualize your spending habits to stay on top of your financial goals. Built with HTML, CSS, JavaScript, and integrated with local storage for seamless user experience.
 
 
-## Table of Contents
-
-- [Preview](#preview)
-- [Demo](#demo)
-- [Features](#features)  <!-- Add Features Section -->
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-
 ---
 
 ## Preview
@@ -88,22 +78,9 @@ Here are some key features of this app:
 - Click on the edit icon to modify transaction details. A popup will appear where you can edit the amount, tag, or both. Click "Edit Expense" to save changes.
 - To delete a transaction, click on the trash icon associated with the transaction and confirm.
 
-### Mobile Screen
-- The web app is designed to be responsive and mobile-friendly.
-- You can toggle the "Add Expense" and "Change Budget" modal by tapping on the plus icon.
+
+
 
 ---
 
-## Acknowledgments
-
-This project wouldn't be possible without the following:
-
-[Chart Js](https://www.chartjs.org/)
-
----
-
-## Contact
-
-- Manik Maity -[manikmaity010@gmail.com]
-- [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
 
